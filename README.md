@@ -1,4 +1,5 @@
-![ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://www.facebook.com/100000638587688/posts/5774225949275301/?app=fbl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=R1F4T+)](https://git.io/typing-svg)
+[ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ]
 ### Hi there 👋
 ######  🫣
 
