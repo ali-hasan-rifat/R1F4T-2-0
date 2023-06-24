@@ -1,5 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=R1F4T+)](https://git.io/typing-svg)
              [ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ]
+             <svg width="1500" height="5" viewBox="0 0 1500 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1500" height="5" fill="url(#paint0_linear_523_396)"/>
+<defs>
+<linearGradient id="paint0_linear_523_396" x1="1500" y1="2.49938" x2="1.74941e-05" y2="2.50983" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FA6800"/>
+<stop offset="0.241883" stop-color="#1F324E"/>
+<stop offset="0.242646" stop-color="#FA6800"/>
+<stop offset="0.516235" stop-color="#1F324E"/>
+<stop offset="0.516235" stop-color="#FA6800"/>
+<stop offset="0.769097" stop-color="#1F324E"/>
+<stop offset="0.769097" stop-color="#FA6800"/>
+<stop offset="1" stop-color="#1F324E"/>
+</linearGradient>
+</defs>
+</svg>
 ### Hi there 👋
 ######  🫣
 
