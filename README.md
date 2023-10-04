@@ -1,64 +1,109 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=R1F4T+)](https://git.io/typing-svg)
-             [ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ]
-             <svg width="1500" height="5" viewBox="0 0 1500 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1500" height="5" fill="url(#paint0_linear_523_396)"/>
-<defs>
-<linearGradient id="paint0_linear_523_396" x1="1500" y1="2.49938" x2="1.74941e-05" y2="2.50983" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FA6800"/>
-<stop offset="0.241883" stop-color="#1F324E"/>
-<stop offset="0.242646" stop-color="#FA6800"/>
-<stop offset="0.516235" stop-color="#1F324E"/>
-<stop offset="0.516235" stop-color="#FA6800"/>
-<stop offset="0.769097" stop-color="#1F324E"/>
-<stop offset="0.769097" stop-color="#FA6800"/>
-<stop offset="1" stop-color="#1F324E"/>
-</linearGradient>
-</defs>
-</svg>
-### Hi there 👋
-######  🫣
+![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-**R1F4T-2-0/R1F4T-2-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+  &nbsp;WELCOME MY PROFILE&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+</h3>
 
-Here are some ideas to get you started:
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;My+R1F4T+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
+```༊আফসোস•
 
-### Hi there 👋, 𝙄'𝙢 𝙍𝙞𝙛𝙖𝙩
-#### ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+•নিজেকে এমন ভাবে বানামু
 
+•সার্চ করে খুজে বেড়াবে কথা দিলাম࿐
 
-ᴵ’ᵐ ᵃ ᶠʳᵒⁿᵗ ᴱⁿᵈ ᵂᵉᵇ ᵈᵉᵛᵉˡᵒᵖᵉʳ ʷʰᵒ ⁱˢ ᵖᵃˢˢⁱᵒⁿᵃᵗᵉ ᵃᵇᵒᵘᵗ ᵐᵃᵏⁱⁿᵍ ᵉʳʳᵒʳ⁻ᶠʳᵉᵉ ʷᵉᵇˢⁱᵗᵉˢ ʷⁱᵗʰ ¹⁰⁰% ᶜˡⁱᵉⁿᵗ ˢᵃᵗⁱˢᶠᵃᶜᵗⁱᵒⁿ. ᴵ ʰᵃᵛᵉ ᵃ ᵖᵃˢˢⁱᵒⁿ ᶠᵒʳ ˡᵉᵃʳⁿⁱⁿᵍ ᵃⁿᵈ ˢʰᵃʳⁱⁿᵍ ᵐʸ ᵏⁿᵒʷˡᵉᵈᵍᵉ ʷⁱᵗʰ ᵒᵗʰᵉʳˢ ᵃˢ ᵖᵘᵇˡⁱᶜˡʸ ᵃˢ ᵖᵒˢˢⁱᵇˡᵉ. ᴵ ˡᵒᵛᵉ ᵗᵒ ˢᵒˡᵛᵉ ʳᵉᵃˡ⁻ʷᵒʳˡᵈ ᵖʳᵒᵇˡᵉᵐˢ. ᴵ ᵃᵐ ˢᵗʳᵃᵗᵉᵍⁱᶜ, ᵍᵒᵃˡ⁻ᵒʳⁱᵉⁿᵗᵉᵈ, ᵃⁿᵈ ᵃˡʷᵃʸˢ ʷᵒʳᵏ ʷⁱᵗʰ ᵃⁿ ᵉⁿᵈ ᵍᵒᵃˡ ⁱⁿ ᵐⁱⁿᵈ. ᴼᵛᵉʳ ᵗʰᵉ ᵖᵃˢᵗ ʸᵉᵃʳˢ, ᴵ ᶜʳᵉᵃᵗᵉᵈ ¹⁰⁰ˢ ᵒᶠ ʷᵉᵇˢⁱᵗᵉˢ ᶠᵒʳ ᵐʸ ᶜˡⁱᵉⁿᵗˢ. ᴵ ᵖʳⁱᵈᵉ ᵐʸˢᵉˡᶠ ᵒⁿ ᵈᵒⁱⁿᵍ qᵘᵃˡⁱᵗʸ ʷᵒʳᵏ ᵃⁿᵈ ᵐᵃⁱⁿᵗᵃⁱⁿ ᵉˣᶜᵉˡˡᵉⁿᵗ ᶜᵒᵐᵐᵘⁿⁱᶜᵃᵗⁱᵒⁿ. ᴹᵒˢᵗ ᵒᶠ ᵗʰᵉ ᵗⁱᵐᵉ ᴵ ʷᵒʳᵏ ʷⁱᵗʰ ᵂᵒʳᵈᴾʳᵉˢˢ ᵇᵘᵗ ˢᵒᵐᵉ ᵗᵉᶜʰⁿᵒˡᵒᵍⁱᵉˢ ᴵ ᵉⁿʲᵒʸ ʷᵒʳᵏⁱⁿᵍ ʷⁱᵗʰ ⁱⁿᶜˡᵘᵈᵉ ᴿᵉᵃᶜᵗᴶˢ, ᴶᵃᵛᵃˢᶜʳⁱᵖᵗ ᵃˢ ʷᵉˡˡ ᵃˢ ᴾᴴᴾ.
+💙
+     
 
-Skills: REACT / JS / HTML / PYTON / PHP
+```
+[![IMG-20230929-230816.png](https://i.postimg.cc/fW2sHVYL/IMG-20230929-230816.png)](https://postimg.cc/K4MCjvqS)
 
-- 🔭 I’m currently working on Yₒᵤₜᵤbₑ 
-- 🌱 I’m currently learning ρꪗꪻꫝꪮꪀ 
-- 👯 I’m looking to collaborate on 𝖌𝖎𝖙𝖍𝖚𝖇 
-- 💬 Ask me about ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+</p>
+
+<p align="center"> 
+
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+
+ <img src="https://profile-counter.glitch.me/R1F4T-2-0/count.svg" />
+
+</p>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/R1F4T-2-0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/R1F4T-2-0)  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 👑 𝐍𝐀𝐌𝐄:- Md. Rifat Hasan Rear 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R1F4T-2-0)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1F4T-2-0)](https://github.com/anuraghazra/github-readme-stats)
+- 👑 𝐀𝐆𝐄:- 18+
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=R1F4T-2-0&show_icons=true&count_private=true)  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R1F4T-2-0)  
+- 👑 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- ONLY CHILL 
 
-![GitHub metrics](https://metrics.lecoq.io/R1F4T-2-0)  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R1F4T-2-0)  
+- 👑 𝐋𝐎𝐕𝐄𝐑:- PYTHON 
 
-![Profile views](https://gpvc.arturio.dev/R1F4T-2-0)  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- CHRISTIAN
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Md.Rifat Hasan Rear](https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [Voice Of Rj Rifat](https://www.facebook.com/Voice.Of.Rj.Rifat)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- 👑 𝐆𝐈𝐓𝐇𝐔𝐁:- [R1F4T-2-0](https://github.com/R1F4T-2-0)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000584600627)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000584600627)
+[![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.com/R1F4T-2-0)
+
+### ⚙️&nbsp;Coder And Programmer.
+
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
+
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i>Skills&DevTools Stack :</i></h2>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+
+<table border="1">
+  <tr>
+    <td valign="top"><a href="https://github.com/R1F4T-2-0/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=R1F4T-2-0&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MR.DIPTO's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/R1F4T-2-0/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1F4T-2-0&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    </a>
+  </tr>
+   <tr>
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=R1F4T-2-0&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="DIPTO's GitHub Readme Streak Stats"/> </a>  </td> 
+    
+  </tr>
+</table>
+<br>
+
+## PROFILE VISITORS
+
+<img src="https://profile-counter.glitch.me/R1F4T-2-0/count.svg" />
