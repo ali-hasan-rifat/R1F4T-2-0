@@ -12,12 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8BWelcome+To+;My+R1F4T+World;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
 ```༊আফসোস•
 
-•নিজেকে এমন ভাবে বানামু
-
-•সার্চ করে খুজে বেড়াবে কথা দিলাম࿐
+•নিজেকে এমন ভাবে বানামু সার্চ করে খুজে বেড়াবে কথা দিলাম࿐
 
 💙
-     
+    }
+} 
 
 ```
 [![IMG-20230929-230816.png](https://i.postimg.cc/fW2sHVYL/IMG-20230929-230816.png)](https://postimg.cc/K4MCjvqS)
@@ -76,9 +75,8 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000584600627)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000584600627)
-[![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.com/R1F4T-2-0)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/100000638587688)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/100000638587688)
 
 ### ⚙️&nbsp;Coder And Programmer.
 
@@ -93,7 +91,7 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/R1F4T-2-0/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=R1F4T-2-0&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MR.DIPTO's GitHub stats"/></td> </a>
+    <td valign="top"><a href="https://github.com/R1F4T-2-0/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=R1F4T-2-0&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="R1F4T's GitHub stats"/></td> </a>
     <td valign="top"> <a href="https://github.com/R1F4T-2-0/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1F4T-2-0&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
